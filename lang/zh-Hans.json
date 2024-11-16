@@ -1,0 +1,18 @@
+{
+  "AutoUpdater.Chat.Prefix": "[{green}AutoUpdater{default}]",
+  "AutoUpdater.Chat.NewUpdateReleased": "新的 Counter-Strike 2 更新已发布（版本：{0}），服务器将在 {1} 后重启",
+  "AutoUpdater.Chat.PluralSuffix": "s",
+  "AutoUpdater.Chat.MinuteLabel": "分钟",
+  "AutoUpdater.Chat.SecondLabel": "秒",
+  "AutoUpdater.Console.NewUpdateReleased": "新的 Counter-Strike 2 更新已发布（版本：{0}）。服务器正在准备关闭。",
+  "AutoUpdater.Console.ConfigVersionMismatch": "配置版本不匹配（预期：{0} | 当前：{1}）",
+  "AutoUpdater.Console.UpdateCheckInitiated": "Steam API 已激活。正在检查更新...",
+  "AutoUpdater.Console.HibernateWarning": "'sv_hibernate_when_empty' 控制变量已启用。此插件可能无法正常工作。",
+  "AutoUpdater.Console.ErrorUpdateCheck": "检查服务器更新时发生错误：{0}",
+  "AutoUpdater.Console.ErrorPatchVersionNull": "无法检索 Counter-Strike 2 的当前补丁版本。此服务器将不进行更新检查。",
+  "AutoUpdater.Console.WarningSteamRequestFailed": "Steam HTTP 请求失败，状态码：{0}",
+  "AutoUpdater.Console.ErrorSteamInfNotFound": "在 Counter-Strike 2 的根目录中未找到 'steam.inf' 文件。路径：\"{0}\"",
+  "AutoUpdater.Console.ErrorPatchVersionKeyNotFound": "在 steam.inf 文件中找不到 'PatchVersion' 键。",
+  "AutoUpdater.Console.ErrorReadingSteamInf": "读取 'steam.inf' 文件时发生错误：{0}",
+  "AutoUpdater.Console.ServerShutdownInitiated": "由于新的游戏更新，服务器正在关闭。（版本：{0}）"
+}
